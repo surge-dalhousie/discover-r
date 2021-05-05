@@ -1,0 +1,16 @@
+# Table of Contents
+
+1. [Introduction](Section1.1.md)
+1. [Tools of the Trade for Data Science](Section1.2.md)
+1. [Introduction to Jupyter and CoCalc](Section1.3.md)
+1. [Introduction to R - Part 1](Section2.1.md)
+1. [Introduction to R - Part 2](Section2.1.md)
+1. [Practice Exercises](Section2Practice.md)
+1. [Starting with Data](Section3.md)
+1. [Practice Exercises](Section3Practice.md)
+1. [R Studio data import](Section3RStudio.md)
+1. [Data cleaning & transformation with dplyr](Section4.md)
+1. [Practice Exercises](Section4Practice.md)
+1. [Data Visualisation with ggplot2](Section5.md)
+1. [Practice Exercises](Section5Practice.md)
+1. [R Studio crash course](Section6.md)
